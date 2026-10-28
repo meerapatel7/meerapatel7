@@ -1,6 +1,6 @@
 # Hi there, I'm Meera Patel 👋
 
-### 🎓 Student | 💻 Developer | 📊 Aspiring Data Scientist
+### 🎓 Student | 💻 Developer | 📊 Aspiring Data Analyst
 
 Welcome to my GitHub profile! I'm a technology enthusiast passionate about programming, problem-solving, and exploring the world of data science. I enjoy building projects, learning new technologies, and turning ideas into practical solutions.
 
